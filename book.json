@@ -1,0 +1,26 @@
+{
+    "root":".",
+    "author":"zy",
+    "title":"灯花",
+    "language":"zh-hans",
+    "description":"This is gitbook",
+    "isbn":"000-0-00-000000-0",
+    "direction":"ltr",
+    "gitbook":">=3.2.3",
+    "links": {
+        "gitbook": true,
+        "sharing": {
+          "google": false,
+          "facebook": false,
+          "twitter": false,
+          "all": false
+        }
+    },
+    "styles": {
+        "website": "styles/website.css",
+        "ebook": "styles/ebook.css",
+        "pdf": "styles/pdf.css",
+        "mobi": "styles/mobi.css",
+        "epub": "styles/epub.css"
+    }
+}
